@@ -16,7 +16,7 @@ spec:
       version: "16.x"
   interval: 1h0m0s
   install:
-    timeout: 20m
+    timeout: 40m
     createNamespace: true
     remediation:
       retries: 3
